@@ -14,12 +14,12 @@ Codechef solutions because why not.
 9. [FIT258 - Fitness](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_258_FIT.java)
 10. [LUDO260 - Chef Plays Ludo](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_260_LUDO.java)
 11. [BURGERS263 - Burgers](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_263_BURGERS.java)
-12. [BTRYHLTH298 - Battery Health](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_296_BTRYHLTH.java)
-    [298JERRYCHASE - Tom and Jerry]()
+12. [BTRYHLTH298 - Battery Health](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_296_BTRYHLTH.java) <br>
+    [298JERRYCHASE - Tom and Jerry](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_298_JERRYCHASE.java)
 13. [AGEING299 - Ageing](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_299_AGEING.java)
 14. [CANDYSTORE429 - Candy Store](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_429_CANDYSTORE.java)
 15. [BETDEAL584 - Better Deal](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_584_BETDEAL.java)
 
 ## Contents - 2 [1000 - 1200: 1* Beginner Level]:
 1. [EZSPEAK1000 - Easy Pronounciation](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_1000_EZSPEAK.java)
-2. [ATM21001 - ATM Machine]()
+2. [ATM21001 - ATM Machine](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_1001_ATM2.java)
