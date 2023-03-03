@@ -2,8 +2,7 @@
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Codechef-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=FF7300'/></a> <br>
 Codechef solutions because why not.
 
-## Contents:
-<span style="color:purple">0 - 1000</span>
+## Contents [0 - 1000: Beginner Level]:
 1. GDTURN238 - conditional statements, basic programming.
 2. BTRYHLTH298 - conditional statements, basic programming.
 3. BETDEAL584 - basic arithmetic operation and calculation.
@@ -18,4 +17,4 @@ Codechef solutions because why not.
 12. FIT258 - basic arithmetic operation.
 13. LUDO260 - basic arithmetic operation.
 14. BURGER263 - basic arithmetic operation.
-15 . EZSPEAK1000 - conditional programming, loops, arrays, strings.
+15. EZSPEAK1000 - conditional programming, loops, arrays, strings.
