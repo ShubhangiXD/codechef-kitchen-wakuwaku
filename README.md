@@ -18,5 +18,5 @@ Codechef solutions because why not.
 13. [CANDYSTORE429 - Candy Store](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_429_CANDYSTORE.java)
 14. [BETDEAL584 - Better Deal](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_584_BETDEAL.java)
 
-##Contents - 2 [1000 - 1200: 1* Beginner Level]:
+## Contents - 2 [1000 - 1200: 1* Beginner Level]:
 1. [EZSPEAK1000 - Easy Pronounciation](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_1000_EZSPEAK.java)
