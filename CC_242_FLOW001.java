@@ -1,22 +1,13 @@
-//im not sure what this is
-// You don't need to add/edit anything to the below solution. 
-// Click on the SUBMIT button to solve your first problem on CodeChef.
-
-import java.io.OutputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.PrintWriter;
 import java.util.StringTokenizer;
-import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.io.InputStream;
 
 
-// Remember that the class name should be "Main" and should be "public".
+
 public class CC_242_FLOW001 {
 	public static void main(String[] args) {
-		// System.in and System.out are input and output streams, respectively.
 		InputStream inputStream = System.in;
 
 		InputReader in = new InputReader(inputStream);
