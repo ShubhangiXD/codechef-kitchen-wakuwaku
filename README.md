@@ -1,4 +1,5 @@
 # codechef-kitchen-wakuwaku
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Codechef-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=FF7300'/></a> <br>
 Codechef solutions because why not.
 
 ## Contents:
