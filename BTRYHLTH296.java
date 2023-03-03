@@ -17,5 +17,6 @@ class BTRYHLTH296
 		    
 		    T--;
 		}
+        sc.close();
 	}
 }
