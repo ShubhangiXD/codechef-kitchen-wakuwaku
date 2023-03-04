@@ -23,3 +23,5 @@ Codechef solutions because why not.
 ## Contents - 2 [1000 - 1200: 1* Beginner Level]:
 1. [EZSPEAK1000 - Easy Pronounciation](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_1000_EZSPEAK.java)
 2. [ATM21001 - ATM Machine](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_1001_ATM2.java)
+3. [PROGLANG1001 - Programming Languages](https://github.com/ShubhangiXD/codechef-kitchen-wakuwaku/blob/main/CC_1001_PROGLANG.java)
+4. [SLOWSLTN - Slow Solution]()
